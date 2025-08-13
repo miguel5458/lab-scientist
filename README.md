@@ -1,10 +1,10 @@
-Lab Scientist
-Sobre o Projeto
+✨ Lab Scientist
+📖 Sobre o Projeto
 O Lab Scientist é um aplicativo móvel inovador, desenvolvido em Flutter, que visa ser uma ferramenta essencial para estudantes e profissionais de diversas áreas científicas. Utilizando a potência da API do Gemini, o app permite que os usuários selecionem um contexto específico (como Física, Química, etc.), insiram dados de forma intuitiva e recebam cálculos precisos e detalhados.
 
 O objetivo é transformar o aplicativo em uma suíte completa de cálculos e ferramentas de pesquisa, acessível em múltiplas plataformas, com a versão inicial focada no Android.
 
-Funcionalidades Principais
+🚀 Funcionalidades Principais
 Interface Intuitiva: Um design limpo e fácil de usar para a inserção de valores e a seleção de contextos científicos.
 
 Integração com Gemini API: Utiliza o poder da inteligência artificial para interpretar dados e realizar cálculos complexos.
@@ -13,10 +13,10 @@ Salvamento e Organização: Permite que os usuários salvem seus cálculos e pes
 
 Suporte Multiplataforma (Futuro): Embora o foco inicial seja no Android, o projeto foi concebido para ser uma suíte de ferramentas completa para todas as plataformas.
 
-Status do Projeto
+🚧 Status do Projeto
 O projeto está atualmente em fase de desenvolvimento, seguindo o cronograma inicial para a entrega das funcionalidades principais.
 
-Cronograma de Desenvolvimento (11/08/2025 - 01/09/2025)
+🗓️ Cronograma de Desenvolvimento (11/08/2025 - 01/09/2025)
 Semana 1: Configuração e Funcionalidade Básica
 
 Configuração do ambiente Flutter.
@@ -41,7 +41,7 @@ Desenvolvimento da funcionalidade de salvamento de arquivos (JSON) no Google Dri
 
 Refinamento geral do aplicativo e correção de bugs.
 
-Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 Flutter: Framework para o desenvolvimento do aplicativo móvel.
 
 Dart: Linguagem de programação.
@@ -50,7 +50,7 @@ Gemini API: Serviço de inteligência artificial para cálculos e interpretaçã
 
 Google Drive API: Para autenticação e salvamento de dados do usuário.
 
-Como Contribuir
+🤝 Como Contribuir
 Fico feliz em aceitar contribuições! Se você deseja ajudar, por favor, siga estas etapas:
 
 Faça um fork deste repositório.
@@ -63,7 +63,5 @@ Envie suas alterações para o seu fork (git push origin feature/sua-feature).
 
 Abra um Pull Request, detalhando as mudanças realizadas.
 
-Contato
+📧 Contato
 Para dúvidas, sugestões ou colaborações, entre em contato comigo.
-
-Licença MIT
